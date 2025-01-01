@@ -13,7 +13,7 @@ This project is about the Real-Time Autocorrect Tool an interactive application 
 - [AI and Machine Learning Aspects](#ai_ml)
 - [Future Scope](#future_scope)
 
-# Key Features
+# 🚀Key Features
 
 - **Real-Time Spell Checking**: Detects and highlights misspelled words as you type.
 - **Suggestions for Corrections**:Provides clickable suggestions to replace misspelled words.
@@ -24,3 +24,18 @@ This project is about the Real-Time Autocorrect Tool an interactive application 
 - **Horizontal Scrolling**:Allows scrolling through multiple suggestions.
 - **User-Friendly Interface**:Built with Tkinter for easy interaction.
 - **Settings Menu**:Customize settings like delay and font style.
+
+# Installation
+-Install Required Libraries
+
+The project uses the tkinter library for the graphical interface and the pyspellchecker library for spell-checking.
+
+To install the required libraries, open your terminal or command prompt and run the following command:
+-pip install pyspellchecker
+
+ ## We use the pyspellchecker library for:
+- **Efficient Spell Checking**: It detects misspelled words in text.
+- **Word Suggestions**: It generates correct word suggestions for replacements.
+- **Easy Integration**: It’s simple to implement and works well with Python.
+- **Frequency Ranking**: It ranks suggestions based on word frequency for relevance.
+
