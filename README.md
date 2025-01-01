@@ -54,5 +54,23 @@ To install the required libraries, open your terminal or command prompt and run 
 - **Changing Typing Delay**: Users can adjust the typing delay to suit their preferences.
 - **Modifying Font Style and Size**: Allows users to customize the font style and size of the text for better readability.
 
+# AI and Machine Learning Aspects
 
+## Use of AI and Machine Learning in the Project
+
+1. **Spell Checking with NLP**
+   - Employs **Natural Language Processing (NLP)** techniques to identify misspelled words by comparing them against a large vocabulary dataset.
+   - Ensures real-time and context-aware error detection.
+
+2. **Word Suggestions**
+   - Generates ranked correction suggestions using **probabilistic models** and **word frequency analysis**.
+   - Leverages **contextual understanding** to enhance suggestion accuracy, aligning with common NLP methodologies.
+
+3. **Pre-Trained Models**
+   - Powered by the **pyspellchecker** library, which utilizes pre-built probabilistic models trained on extensive text corpora.
+   - Offers high accuracy in spelling corrections without requiring custom model training.
+
+4. **AI-Driven Enhancements**
+   - Incorporates **AI-based algorithms** to improve suggestion relevance and effectiveness.
+   - Outperforms traditional dictionary-based methods by adapting to real-world text usage patterns.
 
