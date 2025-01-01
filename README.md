@@ -26,16 +26,23 @@ This project is about the Real-Time Autocorrect Tool an interactive application 
 - **Settings Menu**:Customize settings like delay and font style.
 
 # Installation
--Install Required Libraries
+Install Required Libraries
 
 The project uses the tkinter library for the graphical interface and the pyspellchecker library for spell-checking.
 
 To install the required libraries, open your terminal or command prompt and run the following command:
--pip install pyspellchecker
+**pip install pyspellchecker**
 
- ## We use the pyspellchecker library for:
+ ### We use the pyspellchecker library for:
 - **Efficient Spell Checking**: It detects misspelled words in text.
 - **Word Suggestions**: It generates correct word suggestions for replacements.
 - **Easy Integration**: It’s simple to implement and works well with Python.
 - **Frequency Ranking**: It ranks suggestions based on word frequency for relevance.
+
+# Technical Implementation
+- **Programming Language**: Python
+- **Core Functionalities**:Real-Time Text Monitoring
+                           Word Highlighting and Suggestion Generation
+                           Dynamic Button Creation for Suggestions
+
 
