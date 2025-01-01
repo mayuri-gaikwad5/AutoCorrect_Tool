@@ -40,10 +40,19 @@ To install the required libraries, open your terminal or command prompt and run 
 - **Frequency Ranking**: It ranks suggestions based on word frequency for relevance.
 
 # Technical Implementation
-- **Programming Language**: Python
-- **Core Functionalities**:
--1.[Real-Time Text Monitoring]
--2.[Word Highlighting and Suggestion Generation]
-3.Dynamic Button Creation for Suggestions
+
+### Programming Language
+- **Python**: The project is implemented using Python, which provides a robust and versatile platform for text processing and GUI applications.
+
+
+### Core Functionalities
+- **Real-Time Text Monitoring**: Monitors user input in real-time to detect and correct spelling errors.
+- **Word Highlighting and Suggestion Generation**: Highlights incorrect words and provides suggestions for corrections.
+- **Dynamic Button Creation for Suggestions**: Generates clickable suggestion buttons for quick replacements.
+
+### Customization Features
+- **Changing Typing Delay**: Users can adjust the typing delay to suit their preferences.
+- **Modifying Font Style and Size**: Allows users to customize the font style and size of the text for better readability.
+
 
 
