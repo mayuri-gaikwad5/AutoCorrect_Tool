@@ -42,7 +42,7 @@ To install the required libraries, open your terminal or command prompt and run 
 # Technical Implementation
 - **Programming Language**: Python
 - **Core Functionalities**:Real-Time Text Monitoring
-                           Word Highlighting and Suggestion Generation
-                           Dynamic Button Creation for Suggestions
+-                         Word Highlighting and Suggestion Generation
+-                         Dynamic Button Creation for Suggestions
 
 
