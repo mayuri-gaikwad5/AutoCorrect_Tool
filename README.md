@@ -15,12 +15,12 @@ This project is about the Real-Time Autocorrect Tool an interactive application 
 
 # Key Features
 
-**Real-Time Spell Checking**: Detects and highlights misspelled words as you type.
-**Suggestions for Corrections**:Provides clickable suggestions to replace misspelled words.
-**Customizable Typing Delay**: Adjust the delay between typing and spell check.
-**Font Customization**: Change font style and size.
-**Word Highlighting**:Misspelled words are highlighted in red, suggestions in blue.
-**Dynamic Suggestion Buttons**:Generate buttons for each suggestion.
-**Horizontal Scrolling**:Allows scrolling through multiple suggestions.
-**User-Friendly Interface**:Built with Tkinter for easy interaction.
-**Settings Menu**:Customize settings like delay and font style.
+- **Real-Time Spell Checking**: Detects and highlights misspelled words as you type.
+- **Suggestions for Corrections**:Provides clickable suggestions to replace misspelled words.
+- **Customizable Typing Delay**: Adjust the delay between typing and spell check.
+- **Font Customization**: Change font style and size.
+- **Word Highlighting**:Misspelled words are highlighted in red, suggestions in blue.
+- **Dynamic Suggestion Buttons**:Generate buttons for each suggestion.
+- **Horizontal Scrolling**:Allows scrolling through multiple suggestions.
+- **User-Friendly Interface**:Built with Tkinter for easy interaction.
+- **Settings Menu**:Customize settings like delay and font style.
